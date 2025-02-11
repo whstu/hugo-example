@@ -1,4 +1,4 @@
-baseURL = "https://blog.whstu.us.kg/"
+baseURL = "https://example.com/"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
@@ -35,7 +35,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # 作者配置
 [author]
   name = "WHSTU"
-  email = "2481729398@qq.com"
+  email = "123456789@example.com"
 
 # 菜单配置
 [menu]
@@ -165,7 +165,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
   icp = ''
   # 许可协议信息 (支持 HTML 格式)
-  license = '<a rel="license external nofollow noopener noreffer" href="https://whstu.us.kg" target="_blank">卓然第三帝国提供技术支持</a>'
+  license = '<a rel="license external nofollow noopener noreffer" href="https://example.com/" target="_blank">12345654321</a>'
 
 # LoveIt 新增 | 0.2.0 Section (所有文章) 页面配置
 [params.section]
@@ -255,7 +255,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # 作者的社交信息设置
 [params.social]
-  GitHub = "whstu"
+  GitHub = "你的github名字"
   Linkedin = ""
   Twitter = ""
   Instagram = ""
@@ -298,7 +298,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   Strava = ""
   Skype = ""
   Whatsapp = ""
-  Zhihu = "94-50-75-71"
+  Zhihu = ""
   Douban = ""
   Angellist = ""
   Slidershare = ""
@@ -316,7 +316,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   Gitea = ""
   XMPP = ""
   Matrix = ""
-  Bilibili = "1889214948"
+  Bilibili = ""
   Discord = ""
   DiscordInvite = ""
   Lichess = ""
@@ -327,8 +327,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   Plume = ""
   HackTheBox = ""
   RootMe= ""
-  Phone = "18758179529"
-  Email = "2481729398@qq.com"
+  Phone = ""
+  Email = ""
   RSS = true # LoveIt 新增 | 0.2.0
 
 # LoveIt 更改 | 0.2.0 文章页面全局配置
