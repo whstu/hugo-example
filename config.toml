@@ -493,10 +493,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [params.page.comment.giscus]
   # 你可以参考官方文档来使用下列配置
   enable = true
-  repo = "whstu/hugo-comments"
-  repoId = "R_kgDON2pbEg"
+  repo = ""
+  repoId = ""
   category = "Announcements"
-  categoryId = "DIC_kwDON2pbEs4CmywD"
+  categoryId = ""
   # 为空时自动适配当前主题 i18n 配置
   lang = "zh-CN"
   mapping = "pathname"
