@@ -8,13 +8,13 @@ author: "WHSTU"
 authorLink: ""
 license: ""
 
-tags: ["about"]
-categories: ["网站原生"]
+tags: [""]
+categories: [""]
 
 featuredImage: ""
 featuredImagePreview: ""
 
-summary: "关于"
+summary: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -30,8 +30,9 @@ comment:
   enable: true
 ---
 <img src="https://image.whstu.us.kg/conan.png" height="200" width="auto" alt="Conan">
-你好，欢迎来到WHSTU的博客。
 
+你好，欢迎来到WHSTU的博客。
+提示：本页面是网上找来的，大部分信息与作者无关。
 本页面储存了有关网站作者和网站本身的一些信息。
 # 关于本站
 >~~本站立足于美利坚共和国，服务于全球华人~~

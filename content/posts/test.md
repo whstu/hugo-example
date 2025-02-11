@@ -11,10 +11,10 @@ license: ""
 tags: ["websitedev"]
 categories: ["websitedev"]
 
-featuredImage: "https://image.whstu.us.kg/seewokiller2.png"
-featuredImagePreview: "https://image.whstu.us.kg/seewokiller2.png"
+featuredImage: ""
+featuredImagePreview: ""
 
-summary: testing
+summary: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -30,4 +30,4 @@ comment:
   enable: true
 ---
 
-# Hugo on Vercel
+# Hugo on Vercel/Cloudflare
